@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 15489909,
+      "firstName": "Jordon",
+      "lastName": "Quitzon",
+      "email": "Kory.Stroman@hotmail.com"
+    },
+    {
+      "id": 3096297,
+      "firstName": "Alison",
+      "lastName": "Nienow",
+      "email": "Vergie.Marvin@hotmail.com"
+    },
+    {
+      "id": 61600422,
+      "firstName": "Josie",
+      "lastName": "Breitenberg",
+      "email": "Bonnie.Bernhard@gmail.com"
+    },
+    {
+      "id": 79358545,
+      "firstName": "Modesto",
+      "lastName": "Donnelly",
+      "email": "Annie_Jakubowski@gmail.com"
+    },
+    {
+      "id": 43028832,
+      "firstName": "Americo",
+      "lastName": "Sauer",
+      "email": "Jerad.Kub11@gmail.com"
+    }
+  ]
+}
