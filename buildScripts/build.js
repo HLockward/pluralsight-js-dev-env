@@ -25,7 +25,7 @@ webpack(webpackConfig).run((err, stats) =>{
 
   console.log(`webpack stats: ${stats}`);
 
-  // if we go this far, the build is succeded.
+  // if we go this far, the build is succeded. test
   console.log(chalk.green('your app has been build fo production and written to /dist!'));
 
   return 0;
